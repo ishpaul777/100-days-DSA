@@ -13,5 +13,5 @@
 ### Complement of Base 10 Integer
 - https://leetcode.com/problems/complement-of-base-10-integer/
 
-## 231. Power of Two
+### 231. Power of Two
 - https://leetcode.com/problems/power-of-two/
