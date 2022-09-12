@@ -6,3 +6,7 @@
 ### Negative Decimal to binary 
 - c++ https://replit.com/@ishpaul/negativedecimaltobinary#main.cpp 
 - Javascript https://replit.com/@ishpaul/negdecimaltobinary#main.cpp
+### Binary to Decimal
+- c++ https://replit.com/@ishpaul/binarytodecimal#main.cpp
+### Reverse integer
+https://leetcode.com/problems/reverse-integer/submissions/
