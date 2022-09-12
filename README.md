@@ -9,4 +9,6 @@
 ### Binary to Decimal
 - c++ https://replit.com/@ishpaul/binarytodecimal#main.cpp
 ### Reverse integer
-https://leetcode.com/problems/reverse-integer/submissions/
+- https://leetcode.com/problems/reverse-integer/submissions/
+### Complement of Base 10 Integer
+- https://leetcode.com/problems/complement-of-base-10-integer/
