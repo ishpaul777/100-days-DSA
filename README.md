@@ -1,5 +1,5 @@
 # 100-days-DSA
-## Day 1
+## Day-1 - 12 Sept 2022
 ### Decimal to binary 
 - Method 1 https://replit.com/@ishpaul/decimaltobinary#main.cpp
 - Method 2 https://replit.com/@ishpaul/decimaltobinarymethod2#main.cpp
@@ -16,7 +16,7 @@
 ### 231. Power of Two
 - https://leetcode.com/problems/power-of-two/
 
-## Day 2 
+## Day 2 - 13 Sept 2022
 ### Switch Case in c++
 - Simple calculator program using switch case in c++ : https://replit.com/@ishpaul/simplecalc
 - Count Notes of Rs-100, Rs-50, Rs-20, Rs-10, Rs-5 in an amount : https://replit.com/@ishpaul/countnotes
