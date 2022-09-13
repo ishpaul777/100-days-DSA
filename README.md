@@ -26,3 +26,6 @@
 - Total number of Setbit (1) in two nums: https://replit.com/@ishpaul/totalnumofset1bits#main.cpp
 - Prime number checker: https://replit.com/@ishpaul/isPrime#main.cpp
 - Print Fibonaccii n nums https://replit.com/@ishpaul/fiboaciiseries#main.cpp 
+## Arrays concept 
+- Reverse array https://replit.com/@ishpaul/PrestigiousRoughNamebinding#main.cpp
+- Swap alternate array https://replit.com/@ishpaul/PrestigiousRoughNamebinding#main.cpp
