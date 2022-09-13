@@ -23,4 +23,6 @@
 ### functions in c++
 - Even odd checker:  https://replit.com/@ishpaul/evenorodd#main.cpp 
 - nCR Finder:  https://replit.com/@ishpaul/nCrfunc#main.cpp
+- Total number of Setbit (1) in two nums: https://replit.com/@ishpaul/totalnumofset1bits#main.cpp
 - Prime number checker: https://replit.com/@ishpaul/isPrime#main.cpp
+- Print Fibonaccii n nums https://replit.com/@ishpaul/fiboaciiseries#main.cpp 
