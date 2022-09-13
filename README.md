@@ -20,3 +20,7 @@
 ### Switch Case in c++
 - Simple calculator program using switch case in c++ : https://replit.com/@ishpaul/simplecalc
 - Count Notes of Rs-100, Rs-50, Rs-20, Rs-10, Rs-5 in an amount : https://replit.com/@ishpaul/countnotes
+### functions in c++
+- Even odd checker:  https://replit.com/@ishpaul/evenorodd#main.cpp 
+- nCR Finder:  https://replit.com/@ishpaul/nCrfunc#main.cpp
+- Prime number checker: https://replit.com/@ishpaul/isPrime#main.cpp
