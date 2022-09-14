@@ -29,3 +29,7 @@
 ## Arrays concept 
 - Reverse array https://replit.com/@ishpaul/PrestigiousRoughNamebinding#main.cpp
 - Swap alternate array https://replit.com/@ishpaul/PrestigiousRoughNamebinding#main.cpp
+
+## day3
+### find unique: https://www.codingninjas.com/codestudio/problems/find-unique_625159
+### 1207. Unique Number of Occurrences : https://leetcode.com/problems/unique-number-of-occurrences/submissions/
