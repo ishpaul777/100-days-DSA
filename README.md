@@ -17,21 +17,26 @@
 - https://leetcode.com/problems/power-of-two/
 
 ## Day 2 - 13 Sept 2022
+
 ### Switch Case in c++
 - Simple calculator program using switch case in c++ : https://replit.com/@ishpaul/simplecalc
 - Count Notes of Rs-100, Rs-50, Rs-20, Rs-10, Rs-5 in an amount : https://replit.com/@ishpaul/countnotes
+
 ### functions in c++
 - Even odd checker:  https://replit.com/@ishpaul/evenorodd#main.cpp 
 - nCR Finder:  https://replit.com/@ishpaul/nCrfunc#main.cpp
 - Total number of Setbit (1) in two nums: https://replit.com/@ishpaul/totalnumofset1bits#main.cpp
 - Prime number checker: https://replit.com/@ishpaul/isPrime#main.cpp
 - Print Fibonaccii n nums https://replit.com/@ishpaul/fiboaciiseries#main.cpp 
+
 ## Arrays concept 
 - Reverse array https://replit.com/@ishpaul/PrestigiousRoughNamebinding#main.cpp
 - Swap alternate array https://replit.com/@ishpaul/PrestigiousRoughNamebinding#main.cpp
 
 ## day3
-### find unique: https://www.codingninjas.com/codestudio/problems/find-unique_625159
-### 1207. Unique Number of Occurrences : https://leetcode.com/problems/unique-number-of-occurrences/submissions/
-### find duplicate: https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
-##  Intersection Of Two Sorted Arrays: https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149
+
+### ARRAY PROBLEMS
+- find unique: https://www.codingninjas.com/codestudio/problems/find-unique_625159
+- 1207. Unique Number of Occurrences : https://leetcode.com/problems/unique-number-of-occurrences/submissions/
+- find duplicate: https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
+- Intersection Of Two Sorted Arrays: https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149
