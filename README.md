@@ -33,3 +33,4 @@
 ## day3
 ### find unique: https://www.codingninjas.com/codestudio/problems/find-unique_625159
 ### 1207. Unique Number of Occurrences : https://leetcode.com/problems/unique-number-of-occurrences/submissions/
+### find duplicate: https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
