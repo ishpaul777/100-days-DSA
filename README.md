@@ -41,3 +41,8 @@
 - 442 Find All Duplicates in an Array https://leetcode.com/problems/find-all-duplicates-in-an-array/submissions/
 - find duplicate: https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
 - Intersection Of Two Sorted Arrays: https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149
+
+## dAY 4 
+
+### ARRAY PROBLEMS
+- Pair SUM - https://www.codingninjas.com/codestudio/problems/pair-sum_697295?leftPanelTab=1
