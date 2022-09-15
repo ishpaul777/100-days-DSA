@@ -47,3 +47,4 @@
 ### ARRAY PROBLEMS
 - Pair SUM - https://www.codingninjas.com/codestudio/problems/pair-sum_697295?leftPanelTab=1
 - 3Sum - https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028?leftPanelTab=1
+- SORT 0 1 2 - https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055?leftPanelTab=1
