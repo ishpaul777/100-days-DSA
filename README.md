@@ -33,7 +33,7 @@
 - Reverse array https://replit.com/@ishpaul/PrestigiousRoughNamebinding#main.cpp
 - Swap alternate array https://replit.com/@ishpaul/PrestigiousRoughNamebinding#main.cpp
 
-## day3
+## Day 3 - 14 Sept 2022
 
 ### ARRAY PROBLEMS
 - find unique: https://www.codingninjas.com/codestudio/problems/find-unique_625159
@@ -42,7 +42,8 @@
 - find duplicate: https://www.codingninjas.com/codestudio/problems/duplicate-in-array_893397
 - Intersection Of Two Sorted Arrays: https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149
 
-## dAY 4 
+## Day 4 - - 15 Sept 2022
 
 ### ARRAY PROBLEMS
 - Pair SUM - https://www.codingninjas.com/codestudio/problems/pair-sum_697295?leftPanelTab=1
+- 3Sum - https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028?leftPanelTab=1
