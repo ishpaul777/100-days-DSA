@@ -50,3 +50,4 @@
 (not a good day feel a bit low)
 ### Binary search 
 - First and Last Position of an Element In Sorted Array - https://www.codingninjas.com/codestudio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549?leftPanelTab=1
+- Peak Index in a Mountain Array: https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/
