@@ -45,3 +45,8 @@
 - SORT 0 1 2 - https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055?leftPanelTab=1
 
 ### Time and space complexity - A Overview https://www.youtube.com/watch?v=QovOdd80A4s&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=11
+
+## Day 4 - - 16 Sept 2022
+(not a good day feel a bit low)
+### Binary search 
+- First and Last Position of an Element In Sorted Array - https://www.codingninjas.com/codestudio/problems/first-and-last-position-of-an-element-in-sorted-array_1082549?leftPanelTab=1
