@@ -1,4 +1,4 @@
-# 100-days-DSA
+# 100-days-Code-daily
 ## Day-1 - 12 Sept 2022
 - Decimal to binary 
   - Method 1 https://replit.com/@ishpaul/decimaltobinary#main.cpp
