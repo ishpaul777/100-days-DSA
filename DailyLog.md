@@ -54,7 +54,7 @@
 
 ## Day 6 - - 17 Sept 2022
 
-### Binary search (  Day 6 - - 17 Sept 2022 ) 
+### Binary search ( intermediate problems ) 
 - Search In Rotated Sorted Array - https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_1082554
 - Book Allocation - https://www.codingninjas.com/codestudio/problems/allocate-books_1090540?leftPanelTab=1
 - chapter Distribution - https://www.codingninjas.com/codestudio/problems/ayush-and-ninja-test_1097574
