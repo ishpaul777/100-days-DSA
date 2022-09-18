@@ -61,7 +61,9 @@
 ### Portfolio -- Navbar component
  -Pull Request-  https://github.com/ishpaul777/Portfolio-frontend/pull/1
 
-## Day 7 - - 17 Sept 2022
+## Day 7 - - 18 Sept 2022
 
 ### Binary search ( intermediate problems ) 
 - Painter's Partition Problem - https://www.codingninjas.com/codestudio/problems/painter's-partition-problem_1089557
+- aggressive cows - https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559?
+
