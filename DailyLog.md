@@ -66,4 +66,5 @@
 ### Binary search ( intermediate problems ) 
 - Painter's Partition Problem - https://www.codingninjas.com/codestudio/problems/painter's-partition-problem_1089557
 - aggressive cows - https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559?
+- [EKO SPOJ](https://www.spoj.com/problems/EKO/) - https://replit.com/@ishpaul/eko-spoj#main.cpp
 
