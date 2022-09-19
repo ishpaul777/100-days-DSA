@@ -69,3 +69,9 @@
 - aggressive cows - https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559?
 - [EKO SPOJ](https://www.spoj.com/problems/EKO/) - https://replit.com/@ishpaul/eko-spoj#main.cpp
 
+## Day 8 - - 19 Sept 2022
+
+### 
+ - Selection Sort - https://www.codingninjas.com/codestudio/problems/selection-sort_981162?
+ - Bubble Sort - https://www.codingninjas.com/codestudio/problems/bubble-sort_980524
+
