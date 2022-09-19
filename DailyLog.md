@@ -73,5 +73,6 @@
  ### Sorting algo.. 
  - Selection Sort - https://www.codingninjas.com/codestudio/problems/selection-sort_981162?
  - Bubble Sort - https://www.codingninjas.com/codestudio/problems/bubble-sort_980524
+ - insertion sort - https://www.codingninjas.com/codestudio/problems/insertion-sort_3155179
  ## easy array problem 
  - Sum or Product - codingninjas.com/codestudio/problems/sum-or-product_920478?leftPanelTab=1
