@@ -76,3 +76,9 @@
  - insertion sort - https://www.codingninjas.com/codestudio/problems/insertion-sort_3155179
  ## easy array problem 
  - Sum or Product - codingninjas.com/codestudio/problems/sum-or-product_920478?leftPanelTab=1
+
+## Day 9 - - 19 Sept 2022
+
+  ### STL Library data structures implementation
+  - Reverse Array - https://www.codingninjas.com/codestudio/problems/reverse-the-array_1262298
+
