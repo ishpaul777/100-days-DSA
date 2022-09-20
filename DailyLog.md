@@ -81,4 +81,5 @@
 
   ### STL Library data structures implementation
   - Reverse Array - https://www.codingninjas.com/codestudio/problems/reverse-the-array_1262298
+  - Merge 2 Sorted arrays - https://leetcode.com/problems/merge-sorted-array/submissions/
 
