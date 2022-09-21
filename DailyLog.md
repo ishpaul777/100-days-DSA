@@ -86,3 +86,4 @@
 
 ## Day 10 - - 21 Sept 2022
   - Rotate Array - https://leetcode.com/problems/rotate-array/submissions/
+  - Check if Array Is Sorted and Rotated -https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/
