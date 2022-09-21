@@ -84,3 +84,5 @@
   - Merge 2 Sorted arrays - https://leetcode.com/problems/merge-sorted-array/submissions/
   - Move zero 2 end https://leetcode.com/problems/move-zeroes/submissions/
 
+## Day 10 - - 21 Sept 2022
+  - Rotate Array - https://leetcode.com/problems/rotate-array/submissions/
