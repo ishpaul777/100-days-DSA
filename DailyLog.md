@@ -92,3 +92,4 @@
 
 ## Day 11 - - 22 Sept 2022
 - Reverse Array - https://leetcode.com/problems/reverse-string/submissions/
+- Palindrome checker - https://www.codingninjas.com/codestudio/problems/check-if-the-string-is-a-palindrome_1062633
