@@ -95,3 +95,13 @@
 - Palindrome checker - https://www.codingninjas.com/codestudio/problems/check-if-the-string-is-a-palindrome_1062633
 - Maximum Occuring Character - https://practice.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1
 - Replace Spaces - https://www.codingninjas.com/codestudio/problems/replace-spaces_1172172
+
+## Day 12 - - 23 Sept 2022
+### Missed🔴
+
+## Day 13 - - 24 Sept 2022
+- Remove All Occurrences of a Substring - https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/
+- Permutation in String - https://leetcode.com/problems/permutation-in-string/
+- String Compression - https://leetcode.com/problems/string-compression/submissions/
+
+
