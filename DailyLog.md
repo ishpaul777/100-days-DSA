@@ -105,3 +105,10 @@
 - String Compression - https://leetcode.com/problems/string-compression/submissions/
 
 
+## Day 14 - - 24 Sept 2022
+
+### 2D ARRAYS
+
+- Concept
+- Print Like a Wave - https://www.codingninjas.com/codestudio/problems/print-like-a-wave_893268?
+- spiral-matrix - https://leetcode.com/problems/spiral-matrix/
