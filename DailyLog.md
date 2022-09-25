@@ -109,6 +109,6 @@
 
 ### 2D ARRAYS
 
-- Concept
 - Print Like a Wave - https://www.codingninjas.com/codestudio/problems/print-like-a-wave_893268?
 - spiral-matrix - https://leetcode.com/problems/spiral-matrix/
+- ROTATE MATRIX 90DEG https://leetcode.com/problems/rotate-image/submissions/
