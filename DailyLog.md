@@ -112,3 +112,7 @@
 - Print Like a Wave - https://www.codingninjas.com/codestudio/problems/print-like-a-wave_893268?
 - spiral-matrix - https://leetcode.com/problems/spiral-matrix/
 - ROTATE MATRIX 90DEG https://leetcode.com/problems/rotate-image/submissions/
+
+## Day 15 - - 25 Sept 2022
+- Search a 2D Matrix I - https://leetcode.com/problems/search-a-2d-matrix/
+- Search a 2D Matrix II - https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/
