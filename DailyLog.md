@@ -121,5 +121,5 @@
 - Count Primes - https://leetcode.com/problems/count-primes/submissions/
 
 ### PORFOLIO HERO SECTION
-![image](https://user-images.githubusercontent.com/104348397/192350598-32a783de-1c47-499d-a9ac-ed1728db0a8f.png) ![image](https://user-images.githubusercontent.com/104348397/192350608-ec9c86fd-7775-4363-9ae2-b6d979a3fa8d.png)
+Added Hero Section - https://github.com/ishpaul777/Portfolio-frontend/pull/2
 
