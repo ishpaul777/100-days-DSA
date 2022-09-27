@@ -123,3 +123,11 @@
 ### PORFOLIO HERO SECTION
 Added Hero Section - https://github.com/ishpaul777/Portfolio-frontend/pull/2
 
+
+## Day 16 - - 25 Sept 2022
+### Pointers in C++ 
+- Overview - https://www.youtube.com/watch?v=YHwEIfrXZgE&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=29
+
+### DBMS 
+- Performance audit - https://github.com/ishpaul777/vet-clinic-DB
+- Schema diagram  
