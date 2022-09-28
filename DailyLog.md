@@ -136,8 +136,11 @@ Added Hero Section - https://github.com/ishpaul777/Portfolio-frontend/pull/2
 ### Pointers in C++ 
 - Played with pointers - https://replit.com/@ishpaul/array-pointer#main.cpp
 
-### Recursion
-- Factorial using recursion- https://replit.com/@ishpaul/Day1#main.cpp
+### Recursion concept
+https://replit.com/@ishpaul/Day1#main.cpp
+- Factorial using recursion
+- Power of 2
+- print counting 
 
 ### DBMS
 - Schema based on diagram - https://github.com/ishpaul777/vet-clinic-DB/pull/6
