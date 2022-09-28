@@ -141,7 +141,7 @@ https://replit.com/@ishpaul/Day1#main.cpp
 - Factorial using recursion
 - Power of 2
 - print counting 
-
+- Fibonacci Series - https://leetcode.com/problems/fibonacci-number/submissions/
 ### DBMS
 - Schema based on diagram - https://github.com/ishpaul777/vet-clinic-DB/pull/6
 
