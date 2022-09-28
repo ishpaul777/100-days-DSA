@@ -105,7 +105,7 @@
 - String Compression - https://leetcode.com/problems/string-compression/submissions/
 
 
-## Day 14 - - 24 Sept 2022
+## Day 14 - - 25 Sept 2022
 
 ### 2D ARRAYS
 
@@ -113,7 +113,7 @@
 - spiral-matrix - https://leetcode.com/problems/spiral-matrix/
 - ROTATE MATRIX 90DEG https://leetcode.com/problems/rotate-image/submissions/
 
-## Day 15 - - 25 Sept 2022
+## Day 15 - - 26 Sept 2022
 - Search a 2D Matrix I - https://leetcode.com/problems/search-a-2d-matrix/
 - Search a 2D Matrix II - https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/
 
@@ -124,10 +124,19 @@
 Added Hero Section - https://github.com/ishpaul777/Portfolio-frontend/pull/2
 
 
-## Day 16 - - 25 Sept 2022
+## Day 16 - - 27 Sept 2022
 ### Pointers in C++ 
 - Overview - https://www.youtube.com/watch?v=YHwEIfrXZgE&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=29
 
 ### DBMS 
 - Performance audit - https://github.com/ishpaul777/vet-clinic-DB
 - Schema diagram  
+
+## Day 17 -- 28 Sept 2022
+### Pointers in C++ 
+- Played with pointers - https://replit.com/@ishpaul/array-pointer#main.cpp
+
+### DBMS
+- Schema based on diagram - https://github.com/ishpaul777/vet-clinic-DB/pull/6
+
+
