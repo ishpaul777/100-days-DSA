@@ -145,4 +145,11 @@ https://replit.com/@ishpaul/Day1#main.cpp
 ### DBMS
 - Schema based on diagram - https://github.com/ishpaul777/vet-clinic-DB/pull/6
 
+## Day 18 -- 29 Sept 2022
 
+# recursion
+- Count Ways To Reach The N-th Stairs - https://www.codingninjas.com/codestudio/problems/count-ways-to-reach-nth-stairs_798650
+- Say Digits - https://replit.com/@ishpaul/Day2#main.cpp
+
+# Ruby 
+- Decode morse code 
