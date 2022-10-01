@@ -164,9 +164,8 @@ https://replit.com/@ishpaul/Day1#main.cpp
  - Binary search tree implementation - https://github.com/microverse-students/binary-search-tree-ishpaul777/pull/1
 
 ## recursion 
-### https://replit.com/@ishpaul/day-3#main.cpp
-- is array sorted
-- sum of array nums
-- linear search 
+- is array sorted - https://replit.com/@ishpaul/day-3#main.cpp
+- sum of array nums - https://replit.com/@ishpaul/day-3#main.cpp
+- linear search - https://replit.com/@ishpaul/day-3#main.cpp
 
 - binary search - https://www.codingninjas.com/codestudio/problems/binary-search_972?
