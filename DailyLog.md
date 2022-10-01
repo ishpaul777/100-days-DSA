@@ -162,3 +162,11 @@ https://replit.com/@ishpaul/Day1#main.cpp
  - Sum of left most part of tree - https://github.com/microverse-students/trees-ishpaul777/pull/1
  - Tree traversal Post order - https://github.com/microverse-students/tree-traversal-ishpaul777 
  - Binary search tree implementation - https://github.com/microverse-students/binary-search-tree-ishpaul777/pull/1
+
+## recursion 
+### https://replit.com/@ishpaul/day-3#main.cpp
+- is array sorted
+- sum of array nums
+- linear search 
+
+- binary search - https://www.codingninjas.com/codestudio/problems/binary-search_972?
