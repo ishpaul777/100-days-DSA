@@ -169,3 +169,4 @@ https://replit.com/@ishpaul/Day1#main.cpp
 - linear search - https://replit.com/@ishpaul/day-3#main.cpp
 
 - binary search - https://www.codingninjas.com/codestudio/problems/binary-search_972?
+- reverse string - https://www.codingninjas.com/codestudio/problems/reverse-the-string_799927
