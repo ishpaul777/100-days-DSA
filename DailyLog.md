@@ -153,3 +153,12 @@ https://replit.com/@ishpaul/Day1#main.cpp
 
 # Ruby 
 - Decode morse code 
+
+## Day 19 - - 30 Sept 2022
+### Missed🔴
+
+## Day 20 - - 1 Oct 2022
+## Binary Tree
+ - Sum of left most part of tree - https://github.com/microverse-students/trees-ishpaul777/pull/1
+ - Tree traversal Post order - https://github.com/microverse-students/tree-traversal-ishpaul777 
+ - Binary search tree implementation - https://github.com/microverse-students/binary-search-tree-ishpaul777/pull/1
