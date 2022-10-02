@@ -176,3 +176,5 @@ https://replit.com/@ishpaul/Day1#main.cpp
 ## recursion 
 - bubble sort - https://www.codingninjas.com/codestudio/problems/selection-sort_980524
 - Merge Sort - https://www.codingninjas.com/codestudio/problems/merge-sort_920442?leftPanelTab=1
+
+-  Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
