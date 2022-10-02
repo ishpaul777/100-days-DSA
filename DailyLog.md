@@ -171,3 +171,8 @@ https://replit.com/@ishpaul/Day1#main.cpp
 - binary search - https://www.codingninjas.com/codestudio/problems/binary-search_972?
 - reverse string - https://www.codingninjas.com/codestudio/problems/reverse-the-string_799927
 - Check If Binary Representation of a Number is Palindrome - https://www.codingninjas.com/codestudio/problems/check-palindrome_920555
+
+## Day 21 - - 2 Oct 2022
+## recursion 
+- bubble sort - https://www.codingninjas.com/codestudio/problems/selection-sort_980524
+- Merge Sort - https://www.codingninjas.com/codestudio/problems/merge-sort_920442?leftPanelTab=1
