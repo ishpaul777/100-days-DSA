@@ -178,3 +178,7 @@ https://replit.com/@ishpaul/Day1#main.cpp
 - Merge Sort - https://www.codingninjas.com/codestudio/problems/merge-sort_920442?leftPanelTab=1
 
 -  Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+
+## Day 22 - - 3 Oct 2022
+- Quick Sort - https://www.codingninjas.com/codestudio/problems/quick-sort_983625
+- Set of Subsets -  https://leetcode.com/problems/subsets/submissions/
