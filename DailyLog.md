@@ -185,3 +185,4 @@ https://replit.com/@ishpaul/Day1#main.cpp
 - Subsequences of String - https://www.codingninjas.com/codestudio/problems/subsequences-of-string_985087
 - Letter Combinations of a Phone Number - https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/
 - Permutations - https://leetcode.com/problems/permutations/submissions/
+- Permutations of a String - https://www.codingninjas.com/codestudio/problems/permutations-of-a-string_985254?leftPanelTab=1
