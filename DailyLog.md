@@ -183,4 +183,5 @@ https://replit.com/@ishpaul/Day1#main.cpp
 - Quick Sort - https://www.codingninjas.com/codestudio/problems/quick-sort_983625
 - Set of Subsets -  https://leetcode.com/problems/subsets/submissions/
 - Subsequences of String - https://www.codingninjas.com/codestudio/problems/subsequences-of-string_985087
--  Letter Combinations of a Phone Number - https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/
+- Letter Combinations of a Phone Number - https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/
+- Permutations - https://leetcode.com/problems/permutations/submissions/
