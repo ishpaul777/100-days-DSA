@@ -182,3 +182,4 @@ https://replit.com/@ishpaul/Day1#main.cpp
 ## Day 22 - - 3 Oct 2022
 - Quick Sort - https://www.codingninjas.com/codestudio/problems/quick-sort_983625
 - Set of Subsets -  https://leetcode.com/problems/subsets/submissions/
+- Subsequences of String - https://www.codingninjas.com/codestudio/problems/subsequences-of-string_985087
