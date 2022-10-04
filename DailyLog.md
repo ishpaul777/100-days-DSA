@@ -187,6 +187,6 @@ https://replit.com/@ishpaul/Day1#main.cpp
 - Permutations - https://leetcode.com/problems/permutations/submissions/
 - Permutations of a String - https://www.codingninjas.com/codestudio/problems/permutations-of-a-string_985254?leftPanelTab=1
 
-## Day 22 - - 3 Oct 2022
+## Day 22 - - 4 Oct 2022
 -  Rat in maze - https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1
 -  [Oops Library] Decorator design pattern - https://github.com/ishpaul777/OOPS-Library/pull/2
